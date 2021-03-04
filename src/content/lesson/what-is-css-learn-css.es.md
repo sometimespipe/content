@@ -1,6 +1,6 @@
 ---
 title: "Aprendamos CSS: ¿Qué Quiere Decir CSS?"
-subtitle: "Cómo te habrás dado cuenta, HTML te permite crear sólo sitios web básicos. Nadie quiere ver un sitio web blanco con algún texto horrible en él. ¡Así que es hora de saber de qué se trata CSS! Aprende CSS para hacer tu sitio web hermoso. Es hora de brillar !."
+subtitle: "Como te habrás dado cuenta, HTML te permite crear sólo sitios web básicos. Nadie quiere ver un sitio web blanco con algún texto horrible en él. ¡Así que es hora de saber de qué se trata CSS! Aprende CSS para hacer tu sitio web hermoso. Es hora de brillar !."
 cover_local: "../../assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
 textColor: "white"
 date: "2020-10-19T16:36:31+00:00"
@@ -36,14 +36,14 @@ se de cuenta de que, a simple vista, son distintos.
 [[demo]]
 | :point_up: Para entender el potencial de CSS, [haz clic aquí para ver un live demo!](http://assets.breatheco.de/live-demos/css/bootstrap/)
 
-¡Puedes imaginar el potencial?  ¡Puedes hacer que casi todo se vea diferente!
+¿Puedes imaginar el potencial?  ¡Puedes hacer que casi todo se vea diferente!
 
 
 
 ## ¿Cómo aplico estilos a un HTML?
 ***
 
-Sencillo, Debes escribir tus estilos con una sintaxis especial denominada "CSS" y y guardar el documento con la extensión CSS. Luego, para aplicar los estilos al documento usamos las tags del HTML que estaban relacionadas con CSS: `<style>` y `<link>` .
+Sencillo, debes escribir tus estilos con una sintaxis especial denominada "CSS" y y guardar el documento con la extensión CSS. Luego, para aplicar los estilos al documento usamos las tags del HTML que estaban relacionadas con CSS: `<style>` y `<link>` .
 
 Vamos a repasar estas tags con más detalle:
 
@@ -147,7 +147,7 @@ En el siguiente ejemplo vamos a colocar fondo verde a todos los td (celdas) de l
 
 Con estas 4 maneras de seleccionar vas a cubrir el 99% de tus necesidades, lo importante es tomarte el tiempo para planificar tus hojas de estilos.
 
-Hay otros selectores más específicos y avanzados. Probablemente lo usarás cuando estés realizando creando algo más desafiante.
+Hay otros selectores más específicos y avanzados. Probablemente lo usarás cuando estés creando algo más desafiante.
 
 ## Conflictos y herencia
 ***
@@ -165,7 +165,7 @@ El navegador le da prioridad a los selectores más específicos, como al `#id`, 
 
 Ya vimos que una hoja de estilos CSS no es más que una lista que define las propiedades que queremos asignar a los diferentes elementos de la página. Ahora veremos cuáles podemos asignar a estos elementos.
 
-Hay cientos - sino miles - de propiedades, pero dependiendo del tipo de elemento/etiqueta que queremos definir, sabremos en cuáles debemos enfocarnos.
+Hay cientos - si no miles - de propiedades, pero dependiendo del tipo de elemento/etiqueta que queremos definir, sabremos en cuáles debemos enfocarnos.
 
 #### Editando tipografía
 |Propiedad   |Descripción   |Valores   |
